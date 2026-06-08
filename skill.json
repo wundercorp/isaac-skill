@@ -1,0 +1,20 @@
+{
+  "skillId": "isaac",
+  "displayName": "Isaac",
+  "description": "Apple App Store review readiness guidance for making Apple-platform apps compatible by default with App Store Review Guidelines, including privacy, permissions, payments, metadata, reviewer access, UGC moderation, regulated features, ads, subscriptions, and rejection triage.",
+  "repositoryName": "isaac-skill",
+  "topics": [
+    "ai-skill",
+    "apple",
+    "app-store",
+    "app-review",
+    "ios",
+    "app-store-connect",
+    "privacy",
+    "storekit",
+    "developer-tools",
+    "compliance"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}
